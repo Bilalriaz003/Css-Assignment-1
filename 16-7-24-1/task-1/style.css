@@ -1,0 +1,20 @@
+.blue{
+    color:blue;
+    background-color: rgb(193, 175, 209);
+}
+.purple{
+    color:purple;
+}
+.yellow{
+    color:red;
+    background-color: yellow;
+}
+.green{
+    color:black;
+    background-color: rgb(113, 192, 113);
+}
+a{
+    font-size: larger;
+    text-decoration: none;
+    color:blue;
+}
